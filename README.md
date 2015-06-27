@@ -11,8 +11,11 @@
 ## Разработка
 
 * [июль 2007](https://web.archive.org/web/20070706225034/http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78)
+* [август 2009](https://web.archive.org/web/20090816233722/http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78)
 * [январь 2010](https://web.archive.org/web/20100130022030/http://rsoap.mintorg.gov.by:8880/viewreestr)
 * [май 2012](https://web.archive.org/web/20120516080120/http://rsoap.mintorg.gov.by:8880/viewreestr/)
+
+---
 
 * [закупки][]
 * сопровождение 2015
