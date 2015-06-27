@@ -11,6 +11,25 @@
 ## Разработка
 
 * [закупки][]
+* сопровождение 2015
+  * UNIX
+  * Oracle Database 11g R2
+  * Oracle GlassFish Server
+  * Oracle BI Publisher
+  * Oracle WebLogic Server
+  * Oracle WebCenter
+  * VMWare 5.0 
+  * PL/SQL
+  * Oracle APEX
+  * JAVA EE
+  * SOA
+  * SOAP 1.1, 1.2
+  * ADF
+  * см. приложение 11 http://www.icetrade.by/tenders/all/openparts/237550
+* услуги по модернизации ИСС
+  * http://www.icetrade.by/tenders/all/view/142495
+  * http://www.icetrade.by/tenders/all/view/155252
+  * нет победителя
 * услуги по обеспечению функционирования и сопровождению ПО ИСС "Торговый реестр РБ" в 2013, 2014 - ГО "Белресурсы"
   * СУБД Oracle 10g
   * СУБД Firebird 2.1.0
