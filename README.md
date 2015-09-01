@@ -8,12 +8,17 @@
   * HTTP
 * http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78&lang=en
 
-## Разработка
+## Эпаты жизни
 
 * [июль 2007](https://web.archive.org/web/20070706225034/http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78)
 * [июлб 2009](https://web.archive.org/web/20090816233722/http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78), Публикация сведений торгового реестра
 * [январь 2010](https://web.archive.org/web/20100130022030/http://rsoap.mintorg.gov.by:8880/viewreestr), не работает
 * [май 2012](https://web.archive.org/web/20120516080120/http://rsoap.mintorg.gov.by:8880/viewreestr/), интерфейс, всё ещё существующий в июне 2015
+* [1 сентября 2015](http://rsoap.mintorg.gov.by:8880/viewreestr/) _он улетел, но обещал вернуться_, сайт уже недоступен.
+  * DNS указывает на `212.98.163.133`, но на порту уже никто не слушает.
+
+
+Некогда публичный авторитетный ресурс, на который [ссылались](http://edoc.bseu.by:8080/bitstream/edoc/11669/2/Korbut_L_V_Nauch_trudy_2014_Vyp_7_S_217-222_ocr.pdf).
 
 ---
 
