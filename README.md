@@ -8,7 +8,7 @@
   * HTTP
 * http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78&lang=en
 
-## Эпаты жизни
+## Этапы жизни
 
 * [июль 2007](https://web.archive.org/web/20070706225034/http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78)
 * [июлб 2009](https://web.archive.org/web/20090816233722/http://www.mintorg.gov.by/index.php?option=com_content&task=view&id=72&Itemid=78), Публикация сведений торгового реестра
